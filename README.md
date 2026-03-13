@@ -1,70 +1,99 @@
-<h1 align="center">Hey, I'm Joe 👋</h1>
-<h3 align="center">
-Backend & Security Engineer with a strong focus on API design, authentication models, and secure system architecture. 
-I'm completing my MSc in Computer Science and specialise in building reliable, scalable backend services using modern tooling.
-</h3>
+<h1 align="center">Joe Magnussen</h1>
+<h3 align="center">Backend & Security Engineer • MSc Computer Science Graduate</h3>
 
-<p align="left">
-  <a href="https://github-profile-trophy.vercel.app/?username=jkmagnussen">
-    <img src="https://github-profile-trophy.vercel.app/?username=jkmagnussen" alt="jkmagnussen" />
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Security-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Liverpool,%20UK-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Backend%20Roles-brightgreen?style=for-the-badge" />
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/joekmagnussen" target="blank">
-    <img src="https://img.shields.io/twitter/follow/joekmagnussen?logo=twitter&style=for-the-badge" alt="joekmagnussen" />
-  </a>
+<hr/>
+
+<h2>👋 About Me</h2>
+<p>
+I'm a backend & security engineer with a strong focus on API design, authentication models, and secure system architecture. 
+I recently completed my MSc in Computer Science at the University of Liverpool, where my dissertation explored the security trade-offs of modern API authentication models.
 </p>
 
+<p>
+I enjoy building reliable backend systems, understanding how things work under the hood, and designing solutions that are secure, predictable, and easy to maintain.
+</p>
+
+<hr/>
+
+<h2>🔧 Core Technologies</h2>
+
+<h3>Backend & APIs</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" alt="Express"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" alt="PHP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" alt="Laravel"/>
+</p>
+
+<h3>Databases & ORM</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40" alt="Prisma"/>
+</p>
+
+<h3>Security & DevOps</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git"/>
+</p>
+
+<hr/>
+
+<h2>🔐 Current Focus</h2>
 <ul>
-  <li>🎓 MSc Computer Science (University of Liverpool) — near completion</li>
-  <li>🔐 Dissertation focus: API authentication models, security trade-offs, and backend architecture</li>
-  <li>💻 Backend stack: <strong>Node.js, TypeScript, Express, PostgreSQL, Prisma, Python</strong></li>
-  <li>🧪 Security interests: threat modelling, API hardening, token/session security, HMAC, OAuth2</li>
-  <li>📦 Comfortable with: SQL, Docker basics, REST design, testing, CI/CD fundamentals</li>
-  <li>📁 All my projects live here: <a href="https://github.com/jkmagnussen">github.com/jkmagnussen</a></li>
-  <li>📄 LinkedIn: <a href="https://www.linkedin.com/in/joseph-magnussen/">linkedin.com/in/joseph-magnussen</a></li>
+  <li>API authentication models (JWT, OAuth2, HMAC, API Keys, Sessions)</li>
+  <li>Threat modelling & API hardening</li>
+  <li>Secure backend architecture</li>
+  <li>Node.js + TypeScript service design</li>
+  <li>Python for tooling, automation, and analysis</li>
 </ul>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://dev.to/jkmagnussen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" /></a>
-  <a href="https://twitter.com/joekmagnussen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/jkmagnussen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/24195891" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
-  <a href="https://codesandbox.com/jkmagnussen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" height="30" width="40" /></a>
-  <a href="https://instagram.com/joekarlmagnussen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<hr/>
+
+<h2>📚 Education</h2>
+<p>
+<strong>MSc Computer Science — University of Liverpool</strong><br/>
+Focus: Backend engineering, security, distributed systems<br/>
+Dissertation: <em>Evaluation of API Authentication Models and Their Security Trade-offs</em>
 </p>
 
-<h3 align="left">Languages & Tools:</h3>
-<p align="left">
+<hr/>
 
-  <!-- Core Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/>
-
-  <!-- ORM / Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40" height="40"/>
-
-  <!-- Frontend (legacy experience) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/>
-
-  <!-- General -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+<h2>🌐 Connect With Me</h2>
+<p>
+  <a href="https://linkedin.com/in/jkmagnussen"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" /></a>
+  <a href="https://twitter.com/joekmagnussen"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="40" /></a>
+  <a href="https://dev.to/jkmagnussen"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" width="40" /></a>
 </p>
 
-<!--
-GitHub Profile README Generator
-https://rahuldkjain.github.io/gh-profile-readme-generator/
--->
+<hr/>
+
+<h2>📁 Featured Work</h2>
+<ul>
+  <li><strong>API Authentication Models Evaluation</strong> — A practical comparison of modern auth strategies, built in Node + TypeScript.</li>
+  <li><strong>Backend Architecture Experiments</strong> — Exploring modular design, clean architecture, and service boundaries.</li>
+  <li><strong>PostgreSQL Projects</strong> — Schema design, migrations, and backend integrations.</li>
+</ul>
+
+<hr/>
+
+<h2>🎯 What I Care About</h2>
+<ul>
+  <li>Secure-by-default backend design</li>
+  <li>Clean, maintainable architecture</li>
+  <li>Predictable systems</li>
+  <li>Good documentation</li>
+  <li>Continuous learning</li>
+</ul>
+
