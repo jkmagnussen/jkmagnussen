@@ -11,15 +11,16 @@
 
 <h2>👋 About Me</h2>
 <p>
-I'm a backend & security engineer with a strong focus on API design, authentication models, and secure system architecture. 
-I recently completed my MSc in Computer Science at the University of Liverpool, where my dissertation explored the security trade-offs of modern API authentication models.
+I'm a backend & security engineer specialising in secure API design, authentication systems, and resilient backend architecture.
+I'm currently working on my MSc dissertation in Computer Science at the University of Liverpool, where I'm exploring the security trade-offs of modern API authentication models.
 </p>
 
 <p>
-I enjoy building reliable backend systems, understanding how things work under the hood, and designing solutions that are secure, predictable, and easy to maintain.
+I enjoy building predictable, maintainable systems, digging into how things work under the hood, and designing solutions that balance performance, security, and developer experience.
 </p>
 
 <hr/>
+
 
 <h2>🔧 Core Technologies</h2>
 
